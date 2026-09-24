@@ -38,4 +38,4 @@ Open http://localhost:3000.
 ## 🔗 Links
 
 - Live: https://fitlog-nextjs.vercel.app/
-- Repo: _add your GitHub URL_
+- Repo: https://github.com/ikhoanulislam/fitlog-nextjs
