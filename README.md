@@ -37,5 +37,5 @@ Open http://localhost:3000.
 
 ## 🔗 Links
 
-- Live: _add your deployed URL_
+- Live: https://fitlog-nextjs.vercel.app/
 - Repo: _add your GitHub URL_
