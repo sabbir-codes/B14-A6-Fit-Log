@@ -21,7 +21,7 @@ FitLog is a dark, no-nonsense gym companion. Browse a library of twelve lifts, o
 6. **Persistence & limits** — plan and saved data survive reloads (localStorage); Plan is capped at five lifts.
 7. **Polish** — loading spinner, empty states, custom 404 page.
 
-## 🚀 Getting Started
+## 🚀Getting Started
 
 ```bash
 npm install
