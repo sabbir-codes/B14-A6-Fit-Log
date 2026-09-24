@@ -1,4 +1,4 @@
-# 💪 FitLog — Workout Library
+# 💪FitLog — Workout Library
 
 FitLog is a dark, no-nonsense gym companion. Browse a library of twelve lifts, open a detail page, lock lifts into today's plan, save others for later, and watch minutes and calories add up live.
 
