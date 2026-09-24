@@ -11,7 +11,7 @@ FitLog is a dark, no-nonsense gym companion. Browse a library of twelve lifts, o
 - Oswald + Inter (Google Fonts)
 - Deployed on Vercel
 
-## ✨ Features
+## ✨Features
 
 1. **Responsive library** — 3-column grid on desktop that collapses to 2 and 1 on tablet and mobile.
 2. **Sort on My Plan** — sort your plan or saved list by Duration, Calories or Rating from the Sort By dropdown.
