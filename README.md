@@ -30,7 +30,7 @@ npm run dev
 
 Open http://localhost:3000.
 
-## 🔌 API
+## 🔌API
 
 - All workouts: `https://api.abcz.workers.dev/api/fitlog`
 - Single workout: `https://api.abcz.workers.dev/api/fitlog/:id`
