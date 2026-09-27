@@ -5,7 +5,7 @@ FitLog is a dark, no-nonsense gym companion. Browse a library of twelve lifts, o
 ## 🛠️ Technologies
 
 - Next.js 14 (App Router)
-- React 18
+- React 19
 - Tailwind CSS 3
 - lucide-react icons
 - Oswald + Inter (Google Fonts)
@@ -38,4 +38,4 @@ Open http://localhost:3000.
 ## 🔗 Links
 
 - Live: https://fitlog-nextjs.vercel.app/
-- Repo: https://github.com/ikhoanulislam/fitlog-nextjs
+- Repo: https://github.com/sabbir-codes/B14-A6-Fit-Log
