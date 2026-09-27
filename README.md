@@ -4,7 +4,7 @@ FitLog is a dark, no-nonsense gym companion. Browse a library of twelve lifts, o
 
 ## 🛠️ Technologies
 
-- Next.js 14 (App Router)
+- Next.js (App Router)
 - React 19
 - Tailwind CSS 3
 - lucide-react icons
