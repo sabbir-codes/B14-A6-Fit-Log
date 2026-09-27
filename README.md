@@ -37,5 +37,5 @@ Open http://localhost:3000.
 
 ## 🔗 Links
 
-- Live: https://fitlog-nextjs.vercel.app/
+- Live: https://sabbir-fitlog-nextjs.netlify.app/
 - Repo: https://github.com/sabbir-codes/B14-A6-Fit-Log
